@@ -1,0 +1,16 @@
+{
+    "folders": [
+		{
+			"path": "C:/Users/hp/Documents/Babacar sidibe/react-app/site web"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Babacar sidibe/react-app/portfolio"
+		}
+	],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "site-web portfol"
+    }
+}
